@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lemonade Challenge</string>
+    <string name="lemon_tree_description">Tap the lemon tree to select a lemon</string>
+    <string name="lemon_description">Keep tapping the lemon to squeeze it</string>
+    <string name="lemonade_description">Tap the lemonade to drink it</string>
+    <string name="glass_description">Tap the empty glass to start again</string>
+</resources>
